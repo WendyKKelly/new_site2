@@ -1,0 +1,85 @@
+// Blog
+section#blog.section.blog
+  .container
+    //
+    header.section-heading
+      h2 From The Blog
+      span Awesome articles from the blog
+    //
+    #blogContent.section-content
+      #jsonContent.row
+    // /#blogContent
+    .text-center
+      a#loadBlogPosts.btn.btn-dark(href='//medium.jasonmdesign.com')
+        | View All
+        span.fa.fa-angle-double-right
+  // /.container
+// Blog
+
+<ul class="blog__list grid">
+  <li class="blog__item grid-xs--12 grid-sm--6 grid-lg--4">
+    <div class="blog__item-image-container">
+      <a href="#">
+        <img src="images/time_management.jpg" srcset="images/time_management.jpg 1x, images/time_management.jpg 2x" alt="Thumbnail for [post title]">
+      </a>
+    </div>
+    <header class="blog__item-header">
+      <span class="blog__item-tags">
+        <a class="blog__item-tag" href="#">Communication</a>
+      </span>
+      <h3 class="blog__item-title">
+        <a href="#">Time Management = Bad Word</a>
+      </h3>
+    </header>
+    <div class="blog__item-excerpt">
+      <p>
+        Okay - the funny thing here is that obviously I have to learn how to take the excerpt from whereever I am actually going to write my blog post and then transfer it here. #Thing to learn. Also funny that I obviously need to learn how to link "read more" to an actual place.
+      </p>
+      <a href="#" class="blog__item-read">Read more</a>
+    </div>
+  </li>
+  <li class="blog__item grid-xs--12 grid-sm--6 grid-lg--4">
+    <div class="blog__item-image-container">
+      <a href="#">
+        <img src="images/data_viz.jpg" srcset="images/data_viz.jpg 1x, images/data_viz.jpg 2x" alt="Thumbnail for [post title]">
+      </a>
+    </div>
+    <header class="blog__item-header">
+      <span class="blog__item-tags">
+        <a class="blog__item-tag" href="#">Data Viz</a>
+      </span>
+      <h3 class="blog__item-title">
+        <a href="#">Good Intentions</a>
+      </h3>
+    </header>
+    <div class="blog__item-excerpt">
+      <p>
+        Okay - Obviously this is me changing something in the html. So le's see what gulp copy does with this. the funny thing here is that obviously I have to learn how to take the excerpt from whereever I am actually going to write my blog post and then transfer it here. #Thing to learn. Also funny that I obviously need to link "read more" to an actual place.
+      </p>
+      <a href="#" class="blog__item-read">Read more</a>
+    </div>
+  </li>
+  <li class="blog__item grid-xs--12 grid-sm--6 grid-lg--4">
+    <div class="blog__item-image-container">
+      <a href="#">
+        <img src="images/good_intentions_bad.jpg" srcset="images/good_intentions_bad.jpg 1x, images/good_intentions_bad.jpg 2x" alt="Thumbnail for [post title]">
+      </a>
+    </div>
+    <header class="blog__item-header">
+      <span class="blog__item-tags">
+        <a class="blog__item-tag" href="#">Web</a>
+      </span>
+      <h3 class="blog__item-title">
+        <a href="#">Good Intentions = Sometimes Super Bad Idea</a>
+      </h3>
+    </header>
+    <div class="blog__item-excerpt">
+      <p>
+        Okay - the funny thing here is that obviously I have to learn how to take the excerpt from whereever I am actually going to write my blog post and then transfer it here. #Thing to learn. Also funny that I obviously need to link "read more" to an actual place.
+      </p>
+      <a href="#" class="blog__item-read">Read more</a>
+    </div>
+  </li>
+</ul>
+</div> <!-- .site-width -->
+</section>

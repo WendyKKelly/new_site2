@@ -1,0 +1,82 @@
+<section class="services section" id="services">
+  <div class="site-width ma">
+    <h2 class="services__title section__title">Services</h2>
+    <p class="services__intro-text section__intro-text">
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+    </p>
+
+    <ul class="services__list grid">
+      <li class="services__item services--1 grid-xs--12 grid-sm--6 grid-lg--4">
+        <div class="services__item-icon">
+          <i class="fa fa-cogs" aria-hidden="true"></i>
+        </div>
+        <h3 class="services__item-title">
+          Best Service
+        </h3>
+        <p class="services__item-description">
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio at vel, incidunt quo laborum rerum adipisci.
+        </p>
+      </li>
+      <li class="services__item services--2 grid-xs--12 grid-sm--6 grid-lg--4">
+        <div class="services__item-icon">
+          <i class="fa fa-link" aria-hidden="true"></i>
+        </div>
+        <h3 class="services__item-title">
+          Best Service
+        </h3>
+        <p class="services__item-description">
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio at vel, incidunt quo laborum rerum adipisci.
+        </p>
+      </li>
+      <li class="services__item services--3 grid-xs--12 grid-sm--6 grid-lg--4">
+        <div class="services__item-icon">
+          <i class="fa fa-window-restore" aria-hidden="true"></i>
+        </div>
+        <h3 class="services__item-title">
+          Best Service
+        </h3>
+        <p class="services__item-description">
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio at vel, incidunt quo laborum rerum adipisci.
+        </p>
+      </li>
+      <li class="services__item services--4 grid-xs--12 grid-sm--6 grid-lg--4">
+        <div class="services__item-icon">
+          <i class="fa fa-rocket" aria-hidden="true"></i>
+        </div>
+        <h3 class="services__item-title">
+          Best Service
+        </h3>
+        <p class="services__item-description">
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio at vel, incidunt quo laborum rerum adipisci.
+        </p>
+      </li>
+      <li class="services__item services--5 grid-xs--12 grid-sm--6 grid-lg--4">
+        <div class="services__item-icon">
+          <i class="fa fa-plug" aria-hidden="true"></i>
+        </div>
+        <h3 class="services__item-title">
+          Best Service
+        </h3>
+        <p class="services__item-description">
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio at vel, incidunt quo laborum rerum adipisci.
+        </p>
+      </li>
+      <li class="services__item services--6 grid-xs--12 grid-sm--6 grid-lg--4">
+        <div class="services__item-icon">
+          <i class="fa fa-lightbulb-o" aria-hidden="true"></i>
+        </div>
+        <h3 class="services__item-title">
+          Best Service
+        </h3>
+        <p class="services__item-description">
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio at vel, incidunt quo laborum rerum adipisci.
+        </p>
+      </li>
+    </ul>
+
+  </div> <!-- .site-width -->
+</section>
+
+<li class="page-nav__li">
+  <a href="#services" class="page-nav__item">Services</a>
+</li>

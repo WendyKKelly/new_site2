@@ -1,0 +1,74 @@
+<section class="blog section" id="blog">
+		<div class="site-width ma">
+			<h2 class="blog__title section__title">Blog</h2>
+			<p class="blog__intro-text section__intro-text">
+				Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+			</p>
+
+			<ul class="blog__list grid">
+				<li class="blog__item grid-xs--12 grid-sm--6 grid-lg--4">
+					//<div class="blog__item-image-container">
+						//<a href="#">
+							//<img src="images/post_thumb.jpg" srcset="images/post_thumb.jpg 1x, images/post_thumb@2x.jpg 2x" alt="Thumbnail for [post title]">
+						//</a>
+					//</div>
+					//<header class="blog__item-header">
+						<span class="blog__item-tags">
+							<a class="blog__item-tag" href="#">General</a>
+						</span>
+						//<h3 class="blog__item-title">
+							<a href="#">Lorem Ipsum</a>
+						</h3>
+					</header>
+					<div class="blog__item-excerpt">
+						<p>
+							Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque quod sit delectus expedita in similique ipsum doloribus reiciendis autem ea, accusantium dolorem temporibus perspiciatis repudiandae quam architecto aut, modi quibusdam.
+						</p>
+						<a href="#" class="blog__item-read">Read more</a>
+					</div>
+				</li>
+				<li class="blog__item grid-xs--12 grid-sm--6 grid-lg--4">
+					<div class="blog__item-image-container">
+						<a href="#">
+							<img src="images/post_thumb.jpg" srcset="images/post_thumb.jpg 1x, images/post_thumb@2x.jpg 2x" alt="Thumbnail for [post title]">
+						</a>
+					</div>
+					<header class="blog__item-header">
+						<span class="blog__item-tags">
+							<a class="blog__item-tag" href="#">General</a>
+						</span>
+						<h3 class="blog__item-title">
+							<a href="#">Lorem Ipsum</a>
+						</h3>
+					</header>
+					<div class="blog__item-excerpt">
+						<p>
+							Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque quod sit delectus expedita in similique ipsum doloribus reiciendis autem ea, accusantium dolorem temporibus perspiciatis repudiandae quam architecto aut, modi quibusdam.
+						</p>
+						<a href="#" class="blog__item-read">Read more</a>
+					</div>
+				</li>
+				<li class="blog__item grid-xs--12 grid-sm--6 grid-lg--4">
+					<div class="blog__item-image-container">
+						<a href="#">
+							<img src="images/post_thumb.jpg" srcset="images/post_thumb.jpg 1x, images/post_thumb@2x.jpg 2x" alt="Thumbnail for [post title]">
+						</a>
+					</div>
+					<header class="blog__item-header">
+						<span class="blog__item-tags">
+							<a class="blog__item-tag" href="#">General</a>
+						</span>
+						<h3 class="blog__item-title">
+							<a href="#">Lorem Ipsum</a>
+						</h3>
+					</header>
+					<div class="blog__item-excerpt">
+						<p>
+							Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque quod sit delectus expedita in similique ipsum doloribus reiciendis autem ea, accusantium dolorem temporibus perspiciatis repudiandae quam architecto aut, modi quibusdam.
+						</p>
+						<a href="#" class="blog__item-read">Read more</a>
+					</div>
+				</li>
+			</ul>
+		</div> <!-- .site-width -->
+</section>
